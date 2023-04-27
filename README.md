@@ -11,15 +11,32 @@ Include your ER diagram here
 
 ### STEP 1:
 
-Create a new Django project using "django-admin startproject",get into the project's terminal and use "python3 manage.py startapp hospitalproject" command.
+An Django application is created inside dataproject folder.
 
 ### STEP 2:
 
-Define a model for the Hospitalapp in the models.py and allow host access and add the app name under the installed apps in settings.py
+A python program is written to create a table to store and retrieve data.
 
 ### STEP 3:
 
-Register the models with the Django admin site. In admin.py under app folder, register the models with Django admin site.
+The table is created with 6 fields in which the username field is made as PrimaryKey.
+
+### STEP 4:
+
+Then the project files migrated. A superuser is also created.
+
+### STEP 5:
+
+Now the server side program is executed .
+
+### STEP 6:
+
+The admin page of our website is accessed using username and password.
+
+### STEP 7:
+
+Records are added and saved in the table inside the database.
+
 
 ## PROGRAM
 
