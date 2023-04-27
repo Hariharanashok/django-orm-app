@@ -53,9 +53,11 @@ admin.site.register(Student,StudentAdmin)
 
 ## OUTPUT
 
-![OUTPUT](./out1.png)
+![out1](https://user-images.githubusercontent.com/120353431/234791832-0e45e968-4d97-4938-acb2-734794ffbd62.png)
 
-![OUTPUT](./out2.png)
+
+![out2](https://user-images.githubusercontent.com/120353431/234791921-7b7b0f0f-110b-4169-be25-55ffb9e07381.png)
+
 
 
 ## RESULT
